@@ -4,7 +4,7 @@ iosxr
 nxos
 
 [ios]
-ios-xe-mgmt-latest.cisco.com
+ios-xe-mgmt.cisco.com
 
 [iosxr]
 sbx-iosxr-mgmt.cisco.com
